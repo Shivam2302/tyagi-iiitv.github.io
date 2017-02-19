@@ -191,3 +191,8 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
+
+
+#margin_yes.btn {
+	margin: 2px;
+}
