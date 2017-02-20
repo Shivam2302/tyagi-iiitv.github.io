@@ -6,7 +6,7 @@ description: This page contains organization wise list of open source contributi
 ### Mozilla
 - [Allow marionette client object to be constructed with the build from the local environment as default.](https://bugzilla.mozilla.org/show_bug.cgi?id=1283216)
 - [Create a new table to manage system requirements.](https://bugzilla.mozilla.org/show_bug.cgi?id=1297025)
-- [Improve layout of individual rules.](https://bugzilla.mozilla.org/show_bug.cgi?id=1300176)
+- [Consider case insentivity interpolation in release blobs.](https://bugzilla.mozilla.org/show_bug.cgi?id=1136164)
 - [about=blank is called without waiting for the new window to open.](https://bugzilla.mozilla.org/show_bug.cgi?id=1336022)
 
 ### Python Jobs Ireland
