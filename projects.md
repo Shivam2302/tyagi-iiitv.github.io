@@ -8,6 +8,15 @@ description: This page consists the list of my projects with their download link
 
 	- It includes all the cool features like **Search, Tags, Categories and everthing else which you see.**
 
+- ### Weekly Task Manager Android App
+	- <a class="btn btn-success" id="margin_yes" href="https://github.com/tyagi-iiitv/weekly-task-manager/blob/master/app/weekly_task_manager.apk">Download the app directly</a> OR  <a class="btn btn-warning" id="margin_yes" href="https://www.amazon.com/dp/B06W58XR7Q/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1487492338&sr=1-1&keywords=image+text+translator+%28English+to+Hindi%29">Find it on Amazon AppStore</a> OR <a class="btn btn-info" id="margin_yes" href="https://github.com/tyagi-iiitv/weekly-task-manager">View Code</a>
+	
+	- #### Usage Instructions
+		- Download the app and don't forget to give permissions if not given by default.
+		- On the start screen, you have options to **Create** a task, **Delete** the existing tasks, **Mark as done** (Which sets the remaining time for the task to zero), and **Reset** the tasks (Which changes the remaining time for each task equal to the total time).
+		- Each task after creation is clickable, and the counter can be started for each task when it is being done. At this point of time, even if you close the app, the timer won't loose its time. So DON'T Worry !!!
+		- This app can help you keep track of how much time you devote to your tasks weekly, or maybe daily if you like to reset your tasks daily.
+
 - ### Extract English text from Image and Translate to Hindi (Android App)
 	- <a class="btn btn-success" id="margin_yes" href="https://github.com/tyagi-iiitv/ImageTextTranslator/blob/master/Sandroidocr/app/app-release.apk">Download the app directly</a> OR  <a class="btn btn-warning" id="margin_yes" href="https://www.amazon.com/dp/B06W58XR7Q/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1487492338&sr=1-1&keywords=image+text+translator+%28English+to+Hindi%29">Find it on Amazon AppStore</a> OR <a class="btn btn-info" id="margin_yes" href="https://github.com/tyagi-iiitv/ImageTextTranslator">View Code</a>
 	
