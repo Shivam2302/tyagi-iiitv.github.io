@@ -9,7 +9,7 @@ description: This page consists the list of my projects with their download link
 	- It includes all the cool features like **Search, Tags, Categories and everthing else which you see.**
 
 - ### Weekly Task Manager Android App
-	- <a class="btn btn-success" id="margin_yes" href="https://github.com/tyagi-iiitv/weekly-task-manager/raw/master/app/weekly_task_manager.apk">Download the app directly</a> OR  <a class="btn btn-warning" id="margin_yes" href="https://www.amazon.com/dp/B06W58XR7Q/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1487492338&sr=1-1&keywords=image+text+translator+%28English+to+Hindi%29">Find it on Amazon AppStore</a> OR <a class="btn btn-info" id="margin_yes" href="https://github.com/tyagi-iiitv/weekly-task-manager">View Code</a>
+	- <a class="btn btn-success" id="margin_yes" href="https://github.com/tyagi-iiitv/weekly-task-manager/raw/master/app/weekly_task_manager.apk">Download the app directly</a> OR  <a class="btn btn-warning" id="margin_yes" href="https://www.amazon.com/dp/B06WWFBYC3/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1488011959&sr=1-1&keywords=weekly+task+manager">Find it on Amazon AppStore</a> OR <a class="btn btn-info" id="margin_yes" href="https://github.com/tyagi-iiitv/weekly-task-manager">View Code</a>
 	
 	- #### Usage Instructions
 		- Download the app and don't forget to give permissions if not given by default.
