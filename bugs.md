@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My open source activities.
+title: My open source activities. (This page is badly outdated. I'll update it as soon as I get time.)
 description: This page contains organization wise list of open source contributions of Anjul Kumar Tyagi with the links to all the bugs and pull requests.
 ---
 ### Mozilla
